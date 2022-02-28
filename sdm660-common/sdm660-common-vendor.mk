@@ -544,6 +544,6 @@ PRODUCT_PACKAGES += \
     com.qti.dpmframework \
     dpmapi \
     qcrilhook \
-    vendor.qti.hardware.soter-V1.0-java \
     qti-telephony-common \
+    vendor.qti.hardware.soter-V1.0-java \
     vendor.qti.gnss@3.0-service
